@@ -1,3 +1,11 @@
+![MasterHead]([github-header-image.png](https://github.com/anshuman-kar/anshuman-kar/blob/main/new.jpg))
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm ANSHUMAN KAR</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
